@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: weather-dashboard
+  profiles:
+    active: default
+
+weather:
+  api:
+    key: ${WEATHER_API_KEY:}
+    baseUrl: ${WEATHER_API_BASE_URL:}
+    timeoutMs: 5000
+
+server:
+  port: 8080
