@@ -1,0 +1,12 @@
+/Users/shubhamgupta_01/Projects/weather-dashboard/src/main/java/com/weatherdashboard/WeatherDashboardApplication.java
+/Users/shubhamgupta_01/Projects/weather-dashboard/src/main/java/com/weatherdashboard/api/client/WeatherApiClient.java
+/Users/shubhamgupta_01/Projects/weather-dashboard/src/main/java/com/weatherdashboard/api/client/WeatherApiClientImpl.java
+/Users/shubhamgupta_01/Projects/weather-dashboard/src/main/java/com/weatherdashboard/api/client/dto/OpenWeatherMapResponse.java
+/Users/shubhamgupta_01/Projects/weather-dashboard/src/main/java/com/weatherdashboard/api/config/WeatherApiConfig.java
+/Users/shubhamgupta_01/Projects/weather-dashboard/src/main/java/com/weatherdashboard/api/config/WeatherApiProperties.java
+/Users/shubhamgupta_01/Projects/weather-dashboard/src/main/java/com/weatherdashboard/api/controller/WeatherController.java
+/Users/shubhamgupta_01/Projects/weather-dashboard/src/main/java/com/weatherdashboard/api/dto/ErrorResponse.java
+/Users/shubhamgupta_01/Projects/weather-dashboard/src/main/java/com/weatherdashboard/api/dto/WeatherResponse.java
+/Users/shubhamgupta_01/Projects/weather-dashboard/src/main/java/com/weatherdashboard/api/exception/ExternalApiException.java
+/Users/shubhamgupta_01/Projects/weather-dashboard/src/main/java/com/weatherdashboard/api/exception/WeatherServiceException.java
+/Users/shubhamgupta_01/Projects/weather-dashboard/src/main/java/com/weatherdashboard/api/service/WeatherService.java

@@ -1,0 +1,15 @@
+com/weatherdashboard/api/exception/WeatherServiceException.class
+com/weatherdashboard/api/dto/ErrorResponse.class
+com/weatherdashboard/api/client/dto/OpenWeatherMapResponse$Main.class
+com/weatherdashboard/api/client/WeatherApiClient.class
+com/weatherdashboard/api/config/WeatherApiProperties.class
+com/weatherdashboard/api/client/dto/OpenWeatherMapResponse$Wind.class
+com/weatherdashboard/api/config/WeatherApiConfig.class
+com/weatherdashboard/api/service/WeatherService.class
+com/weatherdashboard/api/exception/ExternalApiException.class
+com/weatherdashboard/api/client/dto/OpenWeatherMapResponse$Weather.class
+com/weatherdashboard/api/client/WeatherApiClientImpl.class
+com/weatherdashboard/api/dto/WeatherResponse.class
+com/weatherdashboard/api/controller/WeatherController.class
+com/weatherdashboard/WeatherDashboardApplication.class
+com/weatherdashboard/api/client/dto/OpenWeatherMapResponse.class

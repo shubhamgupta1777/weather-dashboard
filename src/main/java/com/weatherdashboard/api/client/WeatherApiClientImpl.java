@@ -4,7 +4,6 @@ import com.weatherdashboard.api.client.dto.OpenWeatherMapResponse;
 import com.weatherdashboard.api.config.WeatherApiProperties;
 import com.weatherdashboard.api.dto.WeatherResponse;
 import com.weatherdashboard.api.exception.ExternalApiException;
-import org.springframework.stereotype.Component;
 import org.springframework.web.client.HttpClientErrorException;
 import org.springframework.web.client.HttpServerErrorException;
 import org.springframework.web.client.ResourceAccessException;
@@ -16,8 +15,8 @@ import java.net.SocketTimeoutException;
 /**
  * Implementation of WeatherApiClient using OpenWeatherMap API.
  * Handles HTTP calls, exception mapping, and internal DTO conversion.
+ * Note: Bean registration is handled by WeatherApiConfig, not @Component.
  */
-@Component
 public class WeatherApiClientImpl implements WeatherApiClient {
     private final RestTemplate restTemplate;
     private final WeatherApiProperties properties;
